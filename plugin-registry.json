@@ -120,6 +120,7 @@
       "homepage": "https://github.com/WEN-Research-Group/StreamSnap",
       "manifestUrl": "plugins/streamsnap/plugin.json",
       "categories": ["Hydrology"],
+      "minGeoLibreVersion": "2.9.0"
     },
     {
       "id": "geolibre-contour",
