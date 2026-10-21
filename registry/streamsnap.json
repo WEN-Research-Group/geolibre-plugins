@@ -1,14 +1,14 @@
 {
   "id": "streamsnap",
   "name": "StreamSnap",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Match river monitoring sites to the correct stream segment interactively and snap sites onto the network.",
   "author": "wangzcl@WEN-Research-Group",
   "homepage": "https://github.com/WEN-Research-Group/StreamSnap",
   "manifestUrl": "plugins/streamsnap/plugin.json",
   "source": {
-    "url": "https://github.com/opengeos/geolibre-plugins/releases/download/bundles-2026-10/streamsnap-0.1.1.zip",
-    "sha256": "059897e5b38512ff267731ae298db42b7bcb83e1c331e2057eee1d907eeba2c7"
+    "url": "https://github.com/WEN-Research-Group/StreamSnap/releases/download/v0.1.2/streamsnap-0.1.2.zip",
+    "sha256": "520fa1c2409110da979ea6106320d461240fd8420c422f7fd10d72c28c2a4819"
   },
   "categories": ["Hydrology"],
   "minGeoLibreVersion": "2.9.0"
